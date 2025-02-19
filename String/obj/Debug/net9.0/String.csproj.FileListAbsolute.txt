@@ -1,0 +1,14 @@
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/String.AssemblyInfoInputs.cache
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/String.AssemblyInfo.cs
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/String.csproj.CoreCompileInputs.cache
+/Users/luizdanunciacao/RiderProjects/String/String/bin/Debug/net9.0/String
+/Users/luizdanunciacao/RiderProjects/String/String/bin/Debug/net9.0/String.deps.json
+/Users/luizdanunciacao/RiderProjects/String/String/bin/Debug/net9.0/String.runtimeconfig.json
+/Users/luizdanunciacao/RiderProjects/String/String/bin/Debug/net9.0/String.dll
+/Users/luizdanunciacao/RiderProjects/String/String/bin/Debug/net9.0/String.pdb
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/String.dll
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/refint/String.dll
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/String.pdb
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/String.genruntimeconfig.cache
+/Users/luizdanunciacao/RiderProjects/String/String/obj/Debug/net9.0/ref/String.dll
